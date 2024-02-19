@@ -1,0 +1,6 @@
+Change all '-' in the date column to '/'
+Add a new column named 'submited by' to the start of the dataframe at random from list of names
+Change all valuea in column mobil_2_lat to string
+Change the value on row 3 in the column lejonet_temp to string and add '°C' to the end of the value
+Change all the '.' in the column lejonet_airpressure to ','
+Add a copy of the column femman_lat to the end of the dataframe
